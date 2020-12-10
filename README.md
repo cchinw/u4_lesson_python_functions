@@ -37,7 +37,7 @@ def sum_func(num):
     return num
 ```
 
-`Num` works as a placeholder to let our function know that it will recieve something to perform a calculation on.
+`Num` works as a placeholder to let our function know that it will receive something to perform a calculation on.
 
 To invoke functions, it follows the same pattern as most programming languages, Example:
 
