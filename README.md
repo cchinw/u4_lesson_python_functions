@@ -13,7 +13,7 @@ In javascript we declare functions like this:
 
 ```js
 const myFunc = () => {
-    return 'Hi
+    return 'Hi'
 }
 ```
 
@@ -21,7 +21,7 @@ Let's see how we declare functions in python:
 
 ```python
 def my_func():
-    return 'Hi
+    return 'Hi'
 ```
 
 As you can see, we first define a function using the `def` keyword, we set the name of the function as `my_func` and add a set of parentheses, `()`, notice the `:` symbol. In python we use the `:` to define a block of code.
