@@ -36,6 +36,8 @@ As you can see, we first define a function using the `def` keyword, we set the n
 
 One important thing to note here, Python is very strict on indentation, you can either use `1 tab` or `2 spaces` to indent your code. Indentation is how python read's blocks of code.
 
+![](https://4.bp.blogspot.com/-BbXKsKfUHZQ/WyRY2KuRHbI/AAAAAAAAARk/vW07XUE4ksEq1nnkH675PunAXkTA0PftwCLcBGAs/s320/20180616_how_to_write_a_function_quickly2.gif)
+
 - Note: _If you do not indent your code, it will absolutely break and not compile._
 
 ## Function Arguments/Parameters
@@ -69,7 +71,7 @@ To invoke functions, it follows the same pattern as most programming languages, 
     ```
 
 ___
-## Putting Functions To Use
+## You Do: Putting Functions To Use
 Now that we've seen how python functions work, let's get a little practice using them! 
 
 Follow the directions in `main.py` to complete this lab.
