@@ -36,6 +36,8 @@ As you can see, we first define a function using the `def` keyword, we set the n
 
 One important thing to note here, Python is very strict on indentation, you can either use `1 tab` or `2 spaces` to indent your code. Indentation is how python read's blocks of code.
 
+- Note: _If you do not indent your code, it will absolutely break and not compile._
+
 ## Function Arguments/Parameters
 
 We can also pass in arguments and define parameters in Python functions by creating a variable in the parentheses, example:
@@ -45,28 +47,42 @@ def sum_func(num):
   return num
 ```
 
-`Num` works as a placeholder to let our function know that it will receive something to perform a calculation on.
+`num` works as a placeholder to let our function know that it will receive something to perform a calculation on when it is invoked.
 
 To invoke functions, it follows the same pattern as most programming languages, Example:
 
-```js
-const myFunc = () => {
-  console.log('Hi)
-}
-myFunc()
-// Prints Hi To The Console
-```
+- JavaScript
+    ```js
+    const myFunc = () => {
+      console.log('Hi)
+    }
+    myFunc()
+    // Prints Hi To The Console
+    ```
+- Python
+    ```python
+    myFunc():
+      print('Hi')
 
-```python
-myFunc():
-  print('Hi')
+    myFunc()
+    # Prints Hi to the console
+    ```
 
-myFunc()
-# Prints hi to the console
-```
-
+___
 ## Putting Functions To Use
+Now that we've seen how python functions work, let's get a little practice using them! 
 
 Follow the directions in `main.py` to complete this lab.
 
 Test your code using `python3 func_test.py` , you should have 5 passing tests. Happy Coding!
+___
+## Recap
+A few things worth reiterating with python functions:
+- A colon `:` is used to denote the end of a function declaration
+- Every block of code _must be_ indented
+- `def` is the keyword to declare a function in python
+- Arguments are passed into the parenthesis after the `function_name()`
+
+## Resources
+- [Intro to Python 3 Lesson](https://github.com/SEI-R-1-25/u4_lesson_python_intro)
+- [Python Functions Docs](https://www.tutorialspoint.com/python/python_functions.htm)
