@@ -1,11 +1,19 @@
 # Python Functions
 
+![](https://res.cloudinary.com/ahonore42/image/upload/v1615581981/ga/Screen_Shot_2021-03-12_at_2.45.05_PM_rnhmr0.png)
+
+## Overview
+In this lesson, we'll be learning about python function syntax, how it uses indentation to separate blocks of code, return statements and arguments, along with how it compares with JavaScript function syntax.
+
 ## Objectives
 
 - Learn Python function syntax
 - Learn proper indentation for code blocks
 - Practice returning values from functions
 - Practice passing arguments/parameters to functions
+
+## Getting Started
+- `Fork` and `clone` this repository and `cd` into the directory
 
 ## Function Syntax
 
