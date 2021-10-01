@@ -63,7 +63,7 @@ To invoke functions, it follows the same pattern as most programming languages, 
     ```
 - Python
     ```python
-    myFunc():
+    def myFunc():
       print('Hi')
 
     myFunc()

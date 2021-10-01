@@ -4,7 +4,7 @@ import main
 
 class Func_Test(unittest.TestCase):
     def test_name(self):
-        self.assertIsInstance(main.print_name(), str)
+        self.assertIsInstance(main.return_name(), str)
 
     def test_power(self):
         exp = 5**2

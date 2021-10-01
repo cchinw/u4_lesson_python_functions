@@ -1,4 +1,4 @@
-#  Create a function called "print_name" that returns your name as a string.
+#  Create a function called "return_name" that returns your name as a string.
 
 # Create a function called "power" that accepts a parameter of num and returns that num to the second power.
 
