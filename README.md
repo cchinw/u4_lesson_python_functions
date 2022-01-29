@@ -86,5 +86,5 @@ A few things worth reiterating with python functions:
 - Arguments are passed into the parenthesis after the `function_name()`
 
 ## Resources
-- [Intro to Python 3 Lesson](https://github.com/SEI-R-4-26/u4_lesson_python_intro)
+- [Intro to Python 3 Lesson](https://github.com/SEI-R-11-8/u4_lesson_python_intro)
 - [Python Functions Docs](https://www.tutorialspoint.com/python/python_functions.htm)
